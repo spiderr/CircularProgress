@@ -174,4 +174,4 @@ identifier_name:
     - 'x2'
     - 'y1'
     - 'y2'
-macOS_deployment_target: '10.12'
+macOS_deployment_target: '10.10'
